@@ -1,6 +1,6 @@
 # Core dependencies
 torch>=2.0.0
-transformers==4.52.3
+transformers==5.10.1
 datasets>=3.4.1,<4.0.0
 huggingface_hub>=0.34.0
 
