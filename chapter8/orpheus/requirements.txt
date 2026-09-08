@@ -1,6 +1,6 @@
 # Core dependencies
 torch
-transformers==4.55.4
+transformers==5.10.1
 unsloth
 accelerate
 bitsandbytes
